@@ -1,3 +1,3 @@
-Hi, I’m tiago!
-I'm DevOps Engineer, focus on fast application delivery with quality and security.
+Hello, I'm Tiago! 
+I'm a DevOps Engineer, I'm a professional focused on quickly delivering applications with quality and security.
 
