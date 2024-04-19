@@ -25,6 +25,8 @@ I'm a DevOps Engineer, I'm a professional focused on quickly delivering applicat
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/golang-icon.svg" height="40" width="50" title="GO">
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/gnu_bash-icon.svg" height="40" width="50" title="Bash">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" width="50" title="Python">
+</p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" width="50" title="Java">
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/vagrantup-icon.svg" height="35" width="35" title="Vagrant">
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/terraformio-icon.svg" height="38" width="36" title="Terraform">
