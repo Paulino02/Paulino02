@@ -14,26 +14,28 @@ I'm a DevOps Engineer, I'm a professional focused on quickly delivering applicat
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulino02&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulino02&layout=compact&theme=tokyonight"/>
 </div>
-![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
-![AWS](https://raw.githubusercontent.com/Paulino02/logos.svg/master/amazon-web-services-2.svg)
-![Jenkins](https://raw.githubusercontent.com/Paulino02/logos.svg/master/jenkins-icon.svg)
-![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg)
-![Kubernetes](https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg)
-![Helm](https://raw.githubusercontent.com/Paulino02/logos.svg/master/helmsh-icon.svg)
-![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
-![GO](https://raw.githubusercontent.com/Paulino02/logos.svg/master/golang-icon.svg)
-![Bash](https://raw.githubusercontent.com/Paulino02/logos.svg/master/gnu_bash-icon.svg)
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
-![Vagrant](https://raw.githubusercontent.com/Paulino02/logos.svg/master/vagrantup-icon.svg)
-![Terraform](https://raw.githubusercontent.com/Paulino02/logos.svg/master/terraformio-icon.svg)
-![Ansible](https://raw.githubusercontent.com/Paulino02/logos.svg/master/ansible-icon.svg)
-![Grafana](https://raw.githubusercontent.com/Paulino02/logos.svg/master/grafana-icon.svg)
-![Git](https://raw.githubusercontent.com/Paulino02/logos.svg/master/git-scm-icon.svg)
-![Argo](https://raw.githubusercontent.com/Paulino02/logos.svg/master/argoprojio-icon.svg)
-![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg)
-![Debian](https://raw.githubusercontent.com/Paulino02/logos.svg/master/debian-icon.svg)
-![Ubuntu](https://raw.githubusercontent.com/Paulino02/logos.svg/master/ubuntu-icon.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" width="50" title="Linux">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/amazon-web-services-2.svg" height="40" width="40" title="AWS">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/jenkins-icon.svg" height="40" width="40" title="Jenkins">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" width="50" title="Docker">
+  <img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg" height="35" width="35" title="Kubernetes">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/helmsh-icon.svg" height="40" width="40" title="Helm">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="35" width="40" title="HTML5">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/golang-icon.svg" height="40" width="50" title="GO">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/gnu_bash-icon.svg" height="40" width="50" title="Bash">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" width="50" title="Python">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" width="50" title="Java">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/vagrantup-icon.svg" height="35" width="35" title="Vagrant">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/terraformio-icon.svg" height="38" width="36" title="Terraform">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/ansible-icon.svg" height="40" width="40" title="Ansible">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/grafana-icon.svg" height="40" width="37" title="Grafana">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/git-scm-icon.svg" height="35" width="35" title="Git">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/argoprojio-icon.svg" height="40" width="40" title="Argo">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" width="50" title="MySQL">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/debian-icon.svg" height="35" width="35" title="Debian">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/ubuntu-icon.svg" height="35" width="35" title="Ubuntu">
+</p>
 
 
 
