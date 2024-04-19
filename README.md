@@ -8,7 +8,7 @@ Hello, I'm Tiago 🖐️.
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55081996085598)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulino02&show_icons=true&theme=tokyonight)
 ## Tec
-
+<img src="/imagem">
 
 
 
