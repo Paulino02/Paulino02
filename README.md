@@ -14,6 +14,7 @@ I'm a DevOps Engineer, I'm a professional focused on quickly delivering applicat
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulino02&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulino02&layout=compact&theme=tokyonight"/>
 </div>
+
     
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="50" width="50" title="Linux">
