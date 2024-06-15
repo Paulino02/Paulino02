@@ -26,9 +26,7 @@ I'm a DevOps Engineer, I'm a professional focused on quickly delivering applicat
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/vagrantup-icon.svg" height="50" width="50" title="Vagrant">
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/terraformio-icon.svg" height="50" width="50" title="Terraform">
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/ansible-icon.svg" height="50" width="50" title="Ansible">
-  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/grafana-icon.svg" height="50" width="50" title="Grafana">
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/git-scm-icon.svg" height="50" width="50" title="Git">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="50" width="50" title="MySQL">
   </p>
 
 
