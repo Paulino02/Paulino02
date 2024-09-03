@@ -11,7 +11,7 @@ I'm a DevOps Engineer, I'm a professional focused on quickly delivering applicat
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55081996085598)
 <div>
   <a href="https://github.com/Paulino02">
-  <img height="480em" src="https://github-readme-stats.vercel.app/api?username=Paulino02&show_icons=true&theme=tokyonight"/>
+  <img height="380em" src="https://github-readme-stats.vercel.app/api?username=Paulino02&show_icons=true&theme=tokyonight"/>
 </div>
 <h2>
 <p align="center">
