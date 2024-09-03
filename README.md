@@ -12,7 +12,6 @@ I'm a DevOps Engineer, I'm a professional focused on quickly delivering applicat
 <div>
   <a href="https://github.com/Paulino02">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulino02&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulino02&layout=compact&theme=tokyonight"/>
 </div>
 <h2>
 <p align="center">
