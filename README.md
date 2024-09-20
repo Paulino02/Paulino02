@@ -11,6 +11,8 @@ I'm a DevOps Engineer, I'm a professional focused on quickly delivering applicat
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55081996085598)
 <div>
   <a href="https://github.com/Paulino02">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulino02&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulino02&layout=compact&theme=tokyonight"/>
 </div>
 <h2>
 <p align="center">
@@ -26,18 +28,3 @@ I'm a DevOps Engineer, I'm a professional focused on quickly delivering applicat
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/ansible-icon.svg" height="50" width="50" title="Ansible">
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/git-scm-icon.svg" height="50" width="50" title="Git">
   </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
