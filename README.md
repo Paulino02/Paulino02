@@ -4,10 +4,6 @@ Hello, I'm Tiago 🖐️.
 <h3>
 I'm a DevOps Engineer, I'm a professional focused on quickly delivering applications with quality and security.
   
-###
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-paulino-390a981aa)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCXVhPYzVMiDyhdfjV6V4oHQ)
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="50" width="50" title="Linux">
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/amazon-web-services-2.svg" height="50" width="50" title="AWS">
