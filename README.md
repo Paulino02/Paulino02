@@ -1,5 +1,5 @@
 <h1>
-Hello, I'm Tiago 🖐️.
+Hello, I'm Tiago 🖐️
   
 <h2>
 Platform/DevOps Engineer.
