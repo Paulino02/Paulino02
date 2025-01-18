@@ -20,10 +20,7 @@ I'm a DevOps Engineer, I'm a professional focused on quickly delivering applicat
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/jenkins-icon.svg" height="50" width="50" title="Jenkins">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="50" width="50" title="Docker">
   <img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg" height="50" width="50" title="Kubernetes">
-  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/gnu_bash-icon.svg" height="50" width="50" title="Bash">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50" width="50" title="Python">
-  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/vagrantup-icon.svg" height="50" width="50" title="Vagrant">
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/terraformio-icon.svg" height="50" width="50" title="Terraform">
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/ansible-icon.svg" height="50" width="50" title="Ansible">
-  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/git-scm-icon.svg" height="50" width="50" title="Git">
   </p>
