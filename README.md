@@ -1,12 +1,11 @@
 <h1>
 Hello, I'm Tiago 🖐️.
   
-<h3>
-Platform/DevOps Engineer
-  
-I'm a professional focused on quickly delivering applications with quality and security.
+<h2>
+Platform/DevOps Engineer.
 
-</h3>
+<h2>  
+I'm a professional focused on quickly delivering applications with quality and security.
   
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="50" width="50" title="Linux">
