@@ -3,9 +3,6 @@ Hello, I'm Tiago 🖐️.
   
 <h2>
 Platform/DevOps Engineer.
-
-<h2>  
-I'm a professional focused on quickly delivering applications with quality and security.
 <h2/>
   
 <p align="center">
