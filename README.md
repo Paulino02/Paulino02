@@ -8,12 +8,6 @@ I'm a DevOps Engineer, I'm a professional focused on quickly delivering applicat
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-paulino-390a981aa)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCXVhPYzVMiDyhdfjV6V4oHQ)
 
-<div>
-  <a href="https://github.com/Paulino02">
-  <img height="380em" src="https://github-readme-stats.vercel.app/api?username=Paulino02&show_icons=true&theme=tokyonight"/>
-</div>
-<h2>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="50" width="50" title="Linux">
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/amazon-web-services-2.svg" height="50" width="50" title="AWS">
