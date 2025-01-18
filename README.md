@@ -17,6 +17,7 @@ I'm a DevOps Engineer, I'm a professional focused on quickly delivering applicat
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="50" width="50" title="Docker">
   <img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg" height="50" width="50" title="Kubernetes">
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/helmsh-icon.svg" height="50" width="50" title="helm">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/argoprojio-icon.svg" height="50" width="50" title="argo">
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/gitlab.svg" height="50" width="50" title="gitlab">
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/jenkins-icon.svg" height="50" width="50" title="Jenkins">
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/prometheus.svg" height="50" width="50" title="prometheus">
