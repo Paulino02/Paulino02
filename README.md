@@ -2,7 +2,10 @@
 Hello, I'm Tiago 🖐️.
   
 <h3>
-I'm a DevOps Engineer, I'm a professional focused on quickly delivering applications with quality and security.
+Platform/DevOps Engineer
+  
+I'm a professional focused on quickly delivering applications with quality and security.
+
 </h3>
   
 <p align="center">
