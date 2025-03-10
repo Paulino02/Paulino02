@@ -2,7 +2,7 @@
 Hello, I'm Tiago 🖐️
   
 <h2>
-Platform/DevOps Engineer.
+DevOps/Platform Engineer.
 <h2/>
   
 <p align="center">
