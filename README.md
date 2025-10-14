@@ -1,4 +1,4 @@
-<h1>
+<h1 align="center">
 Hello, I'm Tiago 🖐️
   
 <h3>
@@ -13,7 +13,7 @@ Hello, I'm Tiago 🖐️
 
 <h3/>
   
-<h3>
+<h3 align="center">
 Tech Stacks
 <h3/>
   
