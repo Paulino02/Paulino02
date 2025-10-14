@@ -15,6 +15,7 @@ Hello, I'm Tiago 🖐️
   
 <h3>
 Tech Stacks
+<h3/>
   
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="50" width="50" title="Linux">
