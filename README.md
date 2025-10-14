@@ -2,7 +2,7 @@
 Hello, I'm Tiago 🖐️
   
 <h2>
-DevOps/Platform Engineer.
+DevOps/Platform Engineer & SRE
 <h2/>
   
 <p align="center">
