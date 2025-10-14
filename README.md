@@ -31,8 +31,8 @@ Tech Stacks
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/jenkins-icon.svg" height="50" width="50" title="Jenkins">
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/prometheus.svg" height="50" width="50" title="prometheus">
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/grafana.svg" height="50" width="50" title="grafana">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50" width="50" title="Python">
   
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50" width="50" title="Python">
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/springio-ar21.svg" height="50" width="50" title="java">
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/OpenTelemetry.svg" height="50" width="50" title="opentelemetry">
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/elastic-stack.svg" height="50" width="50" title="java">
