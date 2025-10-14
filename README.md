@@ -3,9 +3,12 @@ Hello, I'm Tiago 🖐️
   
 <h2>
 DevOps/Platform Engineer & SRE
+
+DevOps/Platform Engineer with solid experience in Cloud Computing (AWS and Azure), Kubernetes (EKS, AKS, and on-premises), Terraform, and CI/CD pipelines. I focus on building scalable, reliable, and observable infrastructure, applying my skills in automation, containers, distributed systems, and monitoring.
+
 <h2/> 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30" width="30" title="Linux">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="50" width="50" title="Linux">
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/amazon-web-services-2.svg" height="50" width="50" title="AWS">
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/microsoft_azure-icon.svg" height="50" width="50" title="AZURE">
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/terraformio-icon.svg" height="50" width="50" title="Terraform">
