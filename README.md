@@ -11,7 +11,11 @@ Hello, I'm Tiago 🖐️
 
   Container enthusiast, science lover, and avid reader. I enjoy exploring technologies that combine automation, performance, and reliability in modern environments.
 
-<h3/> 
+<h3/>
+  
+<h1>
+Tech Stacks
+  
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="50" width="50" title="Linux">
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/amazon-web-services-2.svg" height="50" width="50" title="AWS">
