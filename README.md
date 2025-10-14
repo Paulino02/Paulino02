@@ -13,7 +13,7 @@ Hello, I'm Tiago 🖐️
 
 <h3/>
   
-<h1>
+<h3>
 Tech Stacks
   
 <p align="center">
