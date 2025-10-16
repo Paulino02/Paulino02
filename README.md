@@ -31,4 +31,5 @@ Tech Stacks
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/jenkins-icon.svg" height="50" width="50" title="Jenkins">
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/prometheus.svg" height="50" width="50" title="prometheus">
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/grafana.svg" height="50" width="50" title="grafana">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/grafana.svg" height="64" width="64" title="traefik">
   </p>
