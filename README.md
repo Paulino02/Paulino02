@@ -45,4 +45,7 @@ Tech Stacks
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/postgresql.svg" height="50" width="50" title="Postgresql">
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/konghq-icon.svg" height="50" width="50" title="Kong gateway">
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/goharborio-icon.svg" height="50" width="50" title="Harbor">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/postman-icon-svgrepo-com.svg" height="50" width="50" title="Postman">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/icons8-dbeaver-64.png" height="50" width="50" title="Dbeaver">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/Portainer.svg" height="50" width="50" title="Portainer">
   </p>
