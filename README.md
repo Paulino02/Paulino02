@@ -20,27 +20,27 @@ Tech Stacks
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="50" width="50" title="Linux">
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/amazon-web-services-2.svg" height="50" width="50" title="AWS">
-  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/microsoft_azure-icon.svg" height="50" width="50" title="AZURE">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/microsoft_azure-icon.svg" height="50" width="50" title="Azure">
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/terraformio-icon.svg" height="50" width="50" title="Terraform">
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/ansible-icon.svg" height="50" width="50" title="Ansible">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="50" width="50" title="Docker">
   <img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg" height="50" width="50" title="Kubernetes">
-  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/helmsh-icon.svg" height="50" width="50" title="helm">
-  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/argoprojio-icon.svg" height="50" width="50" title="argo">
-  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/gitlab.svg" height="50" width="50" title="gitlab">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/helmsh-icon.svg" height="50" width="50" title="Helm">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/argoprojio-icon.svg" height="50" width="50" title="Argo">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/gitlab.svg" height="50" width="50" title="Gitlab">
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/jenkins-icon.svg" height="50" width="50" title="Jenkins">
-  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/prometheus.svg" height="50" width="50" title="prometheus">
-  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/grafana.svg" height="50" width="50" title="grafana">
-  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/traefikio-icon.svg" height="50" width="50" title="traefik">
-  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/icons8-logotipo-da-primavera.svg" height="50" width="50" title="springboot">
-  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/nginx-icon.svg" height="50" width="50" title="nginx">
-  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/jaegertracingio-icon.svg" height="50" width="50" title="jaeger">
-  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/elastic-stack.svg" height="50" width="50" title="elk-stack">
-  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/OpenTelemetry.svg" height="50" width="50" title="opentelemetry">
-  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/icons8-keycloak-48.png" height="50" width="50" title="keycloak">
-  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/istioio-icon.svg" height="50" width="50" title="istio">
-  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/redis-icon.svg" height="50" width="50" title="redis">
-  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/mongodb-icon.svg" height="50" width="50" title="mongoDB">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/prometheus.svg" height="50" width="50" title="Prometheus">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/grafana.svg" height="50" width="50" title="Grafana">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/traefikio-icon.svg" height="50" width="50" title="Traefik">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/icons8-logotipo-da-primavera.svg" height="50" width="50" title="Springboot">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/nginx-icon.svg" height="50" width="50" title="Nginx">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/jaegertracingio-icon.svg" height="50" width="50" title="Jaeger">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/elastic-stack.svg" height="50" width="50" title="Elk-stack">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/OpenTelemetry.svg" height="50" width="50" title="Opentelemetry">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/icons8-keycloak-48.png" height="50" width="50" title="Keycloak">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/istioio-icon.svg" height="50" width="50" title="Istio">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/redis-icon.svg" height="50" width="50" title="Redis">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/mongodb-icon.svg" height="50" width="50" title="MongoDB">
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/haproxy-icon.svg" height="50" width="50" title="HAProxy">
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/postgresql.svg" height="50" width="50" title="Postgresql">
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/konghq-icon.svg" height="50" width="50" title="Kong gateway">
