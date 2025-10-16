@@ -39,4 +39,10 @@ Tech Stacks
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/OpenTelemetry.svg" height="50" width="50" title="opentelemetry">
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/icons8-keycloak-48.png" height="50" width="50" title="keycloak">
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/istioio-icon.svg" height="50" width="50" title="istio">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/redis-icon.svg" height="50" width="50" title="redis">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/mongodb-icon.svg" height="50" width="50" title="mongoDB">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/haproxy-icon.svg" height="50" width="50" title="HAProxy">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/postgresql.svg" height="50" width="50" title="Postgresql">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/konghq-icon.svg" height="50" width="50" title="Kong gateway">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/goharborio-icon.svg" height="50" width="50" title="Harbor">
   </p>
