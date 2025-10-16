@@ -33,4 +33,10 @@ Tech Stacks
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/grafana.svg" height="50" width="50" title="grafana">
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/traefikio-icon.svg" height="50" width="50" title="traefik">
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/icons8-logotipo-da-primavera.svg" height="50" width="50" title="springboot">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/nginx-icon.svg" height="50" width="50" title="nginx">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/jaegertracingio-icon.svg" height="50" width="50" title="jaeger">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/elastic-stack.svg" height="50" width="50" title="elk-stack">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/OpenTelemetry.svg" height="50" width="50" title="opentelemetry">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/Logo_of_Keycloak.svg" height="50" width="50" title="keycloak">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/istioio-icon.svg" height="50" width="50" title="istio">
   </p>
