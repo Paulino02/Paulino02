@@ -1,8 +1,6 @@
 <h1 align="center">
 Hello, I'm Tiago 🖐️
-  
-<h2>
-  
+    
   DevOps/Platform Engineer with solid experience in Cloud Computing (AWS and Azure), Kubernetes (EKS, AKS, and on-premises), Terraform, and CI/CD pipelines.
 
   I focus on building scalable, reliable, and observable infrastructure, applying my skills in automation, containers, distributed systems, and monitoring.
@@ -10,11 +8,9 @@ Hello, I'm Tiago 🖐️
   My purpose is to help companies evolve their platforms through tailor-made solutions in cloud, automation, and observability. I aim to serve as a technical enabler, delivering robust, secure, and scalable infrastructure aligned with each client’s business needs.
 
   Container enthusiast, science lover, and avid reader. I enjoy exploring technologies that combine automation, performance, and reliability in modern environments.
-
-<h2/>
   
 <h2 align="center">
-Tech Stacks
+Tech Stacks:
 <h2/>
   
 <p align="center">
