@@ -12,8 +12,6 @@ My purpose is to help companies evolve their platforms through tailor-made solut
 
 Container enthusiast, science lover, and avid reader. I enjoy exploring technologies that combine automation, performance, and reliability in modern environments.
 
-  Container enthusiast, science lover, and avid reader. I enjoy exploring technologies that combine automation, performance, and reliability in modern environments.
-  
 <h2 align="center">
 Tech Stacks:
 <h2/>
