@@ -1,7 +1,7 @@
 <h1 align="center">
 Hello, I'm Tiago 🖐️
   
-<h3>
+<h2>
   
   DevOps/Platform Engineer with solid experience in Cloud Computing (AWS and Azure), Kubernetes (EKS, AKS, and on-premises), Terraform, and CI/CD pipelines.
 
@@ -11,11 +11,11 @@ Hello, I'm Tiago 🖐️
 
   Container enthusiast, science lover, and avid reader. I enjoy exploring technologies that combine automation, performance, and reliability in modern environments.
 
-<h3/>
+<h2/>
   
-<h3 align="center">
+<h2 align="center">
 Tech Stacks
-<h3/>
+<h2/>
   
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="50" width="50" title="Linux">
