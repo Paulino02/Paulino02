@@ -49,8 +49,8 @@ Tech Stacks:
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/Portainer.svg" height="50" width="50" title="Portainer">
   </p>
 
-  <h2 align="center">
-  Certifications:
-  <h2/>
+<h2 align="center">
+Certifications:
+<h2/>
 
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8f236c6c-c39f-4f05-813c-918158f5c821" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8f236c6c-c39f-4f05-813c-918158f5c821" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
