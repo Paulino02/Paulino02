@@ -48,3 +48,8 @@ Tech Stacks:
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/icons8-dbeaver-64.png" height="50" width="50" title="Dbeaver">
   <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/Portainer.svg" height="50" width="50" title="Portainer">
   </p>
+
+  <h2 align="center">
+  Certifications:
+  <div data-iframe-width="60" data-iframe-height="60" data-share-badge-id="8f236c6c-c39f-4f05-813c-918158f5c821" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <h2/>
