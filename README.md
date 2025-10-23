@@ -54,5 +54,5 @@ Certifications:
 <h2/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/image.png" height="50" width="50" title="Portainer">
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/image.png" height="140" width="140" title="Portainer">
 </p>
