@@ -51,5 +51,6 @@ Tech Stacks:
 
   <h2 align="center">
   Certifications:
-  <div data-iframe-width="60" data-iframe-height="60" data-share-badge-id="8f236c6c-c39f-4f05-813c-918158f5c821" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   <h2/>
+
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8f236c6c-c39f-4f05-813c-918158f5c821" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
