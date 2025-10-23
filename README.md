@@ -54,5 +54,5 @@ Certifications:
 <h2/>
 
 <p align="center">
-  <img src="https://www.credly.com/earner/earned/share/8f236c6c-c39f-4f05-813c-918158f5c821?provider=download" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/Paulino02/logos.svg/master/image.png" height="50" width="50" title="Portainer">
 </p>
